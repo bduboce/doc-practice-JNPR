@@ -8,6 +8,8 @@ This GitHub repo and page is a place to practice writing using Markdown and crea
 
 ### A Place to Break Code and Fix Code
 To learn code is to break code. Get your hands dirty, try new things, and have fun doing so.
+- [x] Break the code :wink:
+- [ ] Fix the code :see_no_evil:
 
 ### Related Documentation
 Here are some great links to get you started:
